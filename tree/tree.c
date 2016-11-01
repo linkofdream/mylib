@@ -1,3 +1,4 @@
+#linkofdream@sina.com GNU
 #include<stdio.h>
 #include<stdlib.h>
 
